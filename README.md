@@ -1,1 +1,1 @@
-The purpose of this repository is only to host some JS and CSS files for demos on JSFiddle.
+Old repo to host JS and CSS files used for demos on JSFiddle.
